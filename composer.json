@@ -1,0 +1,17 @@
+{
+    "name": "itvisionsy/php-tools",
+    "description": "A set of PHP tools provided as classes",
+    "authors": [
+        {
+            "name": "Muhannad Shelleh",
+            "email": "muhannad.shelleh@itvision-sy.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ItvisionSy\\Tools\\": "src/"
+        }
+    },
+    "require": {}
+}
